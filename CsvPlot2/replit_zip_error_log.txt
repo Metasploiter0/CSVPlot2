@@ -1,0 +1,1 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/go-1.19:v1-20230525-c48c43c","time":"2023-11-11T16:11:22Z"}
