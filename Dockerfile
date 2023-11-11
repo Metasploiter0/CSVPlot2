@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian
 
 RUN apt-get update && apt-get upgrade 
 RUN rm -rf /usr/local/go && tar -C /usr/local -xzf go1.21.4.linux-amd64.tar.gz
